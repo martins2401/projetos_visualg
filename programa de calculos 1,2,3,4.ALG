@@ -1,4 +1,6 @@
 Algoritmo "semnomeAlgoritmo "programa de calculos"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 //programa desenvolvido para facilitar alguns calculos
 
